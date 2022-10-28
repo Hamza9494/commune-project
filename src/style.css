@@ -225,7 +225,8 @@ li {
   }
   .hero-img {
     display: block;
-    width: 80%;
+    width: 500px;
+    max-width: 500px;
   }
 }
 
